@@ -19,6 +19,11 @@ $ rm junque.dat                         Delete file (NO RECOVERY!)
 
 ---------------------------------------------------------------------
 
+$ [Ctrl]-L         Clears the terminal
+$ [Ctrl]-C         Breaks command - returns to prompt
+
+---------------------------------------------------------------------
+
 wildcards (*) and (?)
 
 * - Matches ANY (0 or more) character or characters in a filename.

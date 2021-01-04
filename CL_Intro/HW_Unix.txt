@@ -17,6 +17,8 @@ Use (some) of the commands we looked at today and the file "Astro_CheatSheet.pdf
 Copy and Paste your answers from the command line to the bottom of this file, save the file, and then upload it to Canvas
 (Assignment: Unix)
 
+Due: Wed Jan 6 at 1 pm [PT]
+
 -----
 
 Questions to Answer:
